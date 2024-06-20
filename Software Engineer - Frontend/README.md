@@ -1,7 +1,7 @@
 # Software Engineer - Frontend
 
 ## Objective
-Develop a reusable, structured, and well-designed *autocomplete* component using [MUI Base UI](https://mui.com/base-ui/react-autocomplete/) and [Tailwind CSS](https://tailwindcss.com/docs/guides/vite), Inspired from [MUI's autocomplete](https://mui.com/material-ui/react-autocomplete/)
+Develop a reusable, structured, and well-designed *autocomplete* component using [MUI Base UI](https://mui.com/base-ui/react-autocomplete/) and [Tailwind CSS](https://tailwindcss.com/docs/guides/vite), inspired from [MUI's autocomplete](https://mui.com/material-ui/react-autocomplete/)'s API/features.
 
 #### Important notes
 
