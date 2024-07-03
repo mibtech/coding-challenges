@@ -22,7 +22,7 @@ Build a RESTful API using the Symfony framework and API Platform. The API will m
      - `biography` (text, nullable)
   - **Category**:
      - `id` (integer, auto-increment)
-     - `name` (string, not nullable)
+     - `name` (string, unique, not nullable)
 
 2. **API Endpoints**:
    - CRUD operations for both `Book`, `Author` and `Category`.
