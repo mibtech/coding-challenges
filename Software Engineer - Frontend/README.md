@@ -1,14 +1,14 @@
 # Software Engineer - Frontend
 
 ## Objective
-Develop a reusable, structured, and well-designed *autocomplete* component using [MUI Base UI](https://mui.com/base-ui/react-autocomplete/), [Tailwind CSS](https://tailwindcss.com/docs/guides/vite), and **TypeScript**, inspired by [MUI's autocomplete](https://mui.com/material-ui/react-autocomplete/)'s API/features.
+Develop a reusable, structured, and well-designed *combobox* component using [base-ui](https://base-ui.com/react/components/combobox), [Tailwind CSS](https://tailwindcss.com/docs/guides/vite), and **TypeScript**.
 
 #### Important notes
 
 - Put maximum effort into coding style and naming, as these are evaluated first.
 - The goal of this test is more to evaluate the way of thinking, design, and quality of code.
 - Focus on building a small and concise app the right way using software engineering principles and best practices.
-- MUI's autocomplete has many features; you can choose as many as you find relevant for this test.
+- base-ui's combobox has many features; you can choose as many as you find relevant for this test.
 - Once you're done with the test, share the link by email to **a.elfannir@mibtech.ma**.
 
 The goal of this challenge is to evaluate the way of thinking, the quality of code design, and the accuracy to read and follow instructions. It is also considered a first onboarding step to join MibTech.
